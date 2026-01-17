@@ -22,8 +22,6 @@ Implementation-of-Windows-Log-Monitoring-using-Splunk-VirusTotal/
 ├── README.md
 └── LICENSE
 
-markdown
-Copy code
 - All project documentation is provided in the included PDF file.
 
 ## Skills Demonstrated
